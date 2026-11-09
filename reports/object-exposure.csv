@@ -1,0 +1,6 @@
+object_id,title,gallery,allowed_lux_minutes,recorded_lux_minutes,utilization_percent,status
+AR-04,Fern Study,East Gallery,2000,2250,112,OVER
+AR-01,Blue Current,East Gallery,3000,3300,110,OVER
+AR-02,Paper Moon,North Cabinet,3000,2550,85,NEAR
+AR-03,Brass Echo,Atrium,6000,3600,60,OK
+AR-05,Quiet Loom,South Hall,2000,0,0,OK
